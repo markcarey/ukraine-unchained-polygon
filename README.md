@@ -1,4 +1,4 @@
-# ukraine-unchained-polygon
+# unchain-ukraine-polygon
 (Unofficial) smart contract to donate to Unchain Ukraine on Polygon
 
 - The purpose of this contract is to provide DAOs and NFT projects a means to easily implement contract-to-contract donations to Unchain Ukraine. 
