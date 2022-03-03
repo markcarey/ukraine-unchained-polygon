@@ -1,0 +1,7 @@
+{
+    "name": "Ukraine",
+    "description": "Glory to Ukraine",
+    "external_url": "https://unchain.fund",
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjgwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iODAwIiBmaWxsPSIjMDA1QkJCIi8+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iNDAwIiB5PSI0MDAiIGZpbGw9IiNGRkQ1MDAiLz48L3N2Zz4=",
+    "image_data": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1200\" height=\"800\"><rect width=\"1200\" height=\"800\" fill=\"#005BBB\"/><rect width=\"1200\" height=\"400\" y=\"400\" fill=\"#FFD500\"/></svg>"
+}
